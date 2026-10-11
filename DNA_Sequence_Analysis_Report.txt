@@ -1,0 +1,7 @@
+DNA SEQUENCE ANALYSIS REPORT
+----------------------------
+DNA Sequence: ATGGCTTACGAACTGCCATGA
+Sequence Length: 21 nucleotides
+GC Content: 47.62%
+RNA Sequence: AUGGCUUACGAACUGCCAUGA
+Protein Sequence: MAYELP*
